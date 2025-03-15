@@ -1,7 +1,5 @@
 # Facial_Issues_Detector-and-Diet-Recommendation
 
-# Facial Issue Detection & Diet Recommendation
-
 ## 📌 Project Overview
 **Facial Issue Detector** is a deep learning-based project that identifies facial skin issues using **Convolutional Neural Networks (CNNs)** and provides **dietary recommendations** based on detected conditions. The model is trained on a dataset of five common skin issues and uses **real-time webcam detection** to classify them accurately.
 
